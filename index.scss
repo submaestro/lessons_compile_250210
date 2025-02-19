@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+li {
+  list-style: none;
+}
+ß
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+html {
+  font-size: 62.5%
+}
+
+body {
+  font-size: 1.6rem;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: ;
+  color: ;
+  padding: ;
+  text-align: ;
+}
+
+.MainVisual_slider {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  display: none;
+}
+
+.MainVisual_slider img {
+  width: ;
+}
+
+.artist_icons {
+  display: flex;
+  justify-content: space-around;
+  padding: ;
+}
+
+.artist_icons img {
+  width: 250px;
+  height: 300px;
+}
+
+.Magazine_slider {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  display: none;
+}
+
+.Magazine_slider img {
+  width: 1100px;
+  height: 600px;
+}
+
+.new_artists {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1100px;
+  margin: auto;
+}
+
+$new_artist_icons
+  width: 25%;
+
+$new_artist_icons img 
+size: 50px; 
